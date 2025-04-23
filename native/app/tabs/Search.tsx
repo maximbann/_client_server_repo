@@ -19,7 +19,7 @@ type Message = {
   text: string;
 };
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "cant see this";
 
 
 export default function Search() {
